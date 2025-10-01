@@ -1,0 +1,14 @@
+location: San Francisco, CA
+carrier: UNLOCKED/US
+interval: 10000 # 10 seconds
+stores:
+  - R075 # Union Square
+  - R217 # Chestnut Street
+  - R033 # Stonestown
+  - R057 # Bay Street
+parts:
+  - MU683LL/A # iPhone 15 Pro Max 256GB Natural
+  - MU693LL/A # iPhone 15 Pro Max 256GB Blue
+  - MU663LL/A # iPhone 15 Pro Max 256GB Black
+notifications:
+  alwaysNotify: false
