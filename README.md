@@ -1,3 +1,4 @@
+HEAD
 # apple-pickup-notifier
 
 A simple node script to poll Apple Stores and check if a given item is available to order for in-store pickup. Useful when trying to get a new iPhone soon after launch date, when availability is limited.
@@ -14,3 +15,6 @@ cp .env.example .env
 ```
 
 Then, modify the `config.yml` to set the desired location, store, and parts you want to monitor.
+=======
+# My Project
+>>>>>>> 43cb3b7 (Initial commit)
