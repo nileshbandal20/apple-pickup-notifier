@@ -13,7 +13,7 @@ const checkAvailability = async () => {
     }, {}
   );
 
-  const { data, config: x } = await axios.get(`https://www.apple.com/shop/fulfillment-messages`, { 
+  const { data, config: x } = await axios.get(`https://www.apple.com/in/shop/fulfillment-messages`, { 
     params: {
       cppart: config.carrier, 
       location: config.location,
