@@ -4,7 +4,7 @@ interval: 10000 # 10 seconds
 stores:
   - R744 # BKC
 parts:
-  - MFYT4HN/A # iPhone 17 Pro Max 256GB Orange
+  - MFYN4HN/A # iPhone 17 Pro Max 256GB Orange
   - MFYP4HN/A # iPhone 17 Pro Max 256GB Blue
 notifications:
   alwaysNotify: false
