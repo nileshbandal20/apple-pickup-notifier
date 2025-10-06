@@ -2,8 +2,9 @@ location: 400060
 carrier: UNLOCKED/US
 interval: 10000 # 10 seconds
 stores:
-  - R744 # Union Square
+  - R744 # BKC
 parts:
   - MFYT4HN/A # iPhone 17 Pro Max 256GB Orange
+  - MFYP4HN/A # iPhone 17 Pro Max 256GB Blue
 notifications:
   alwaysNotify: false
