@@ -5,6 +5,5 @@ stores:
   - R744 # BKC
 parts:
   - MFYN4HN/A # iPhone 17 Pro Max 256GB Orange
-  - MFYP4HN/A # iPhone 17 Pro Max 256GB Blue
 notifications:
   alwaysNotify: false
